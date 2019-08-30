@@ -2,7 +2,4 @@
   "name": "toy",
   "private": true,
   "dependencies": {},
-  "script": {
-    "start": "webpacker-dev-server --hot"
-  }
 }
