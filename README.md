@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
 
 #辛いお(^ω^)
-#むり
+#むり,しんどい
